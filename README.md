@@ -24,7 +24,7 @@ AIR (Standard Edition)</a>
 <br/>
 Sayonara o Oshiete</a>
 
- 
+<hr> 
 
 # Equipe
 
