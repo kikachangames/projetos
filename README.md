@@ -1,4 +1,4 @@
-# Projetos concluídos
+# Traduções concluídas
 
 <a href="https://kikachangames.github.io/higanbana1-pt-br/">
 <img src="https://kikachangames.github.io/air/higanbana.jpg">
@@ -6,7 +6,7 @@
 Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 <br/>
 
-# Projetos em andamento
+# Traduções em andamento
 <a href="https://kikachangames.github.io/air/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
 <br/>    
@@ -22,10 +22,21 @@ Sayonara o Oshiete</a>
 
 # Equipe
 
-<h3>Manolo-chan</h3>
+Manolo-chan - Líder de projetos, tradução e programação
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projeto, tradução, programação e edição de imagens</b></p>
-<p>Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
+
+Tenho uma paixão por Visual Novels! Cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
+
+<h3>Div-lu</h3>
+<img src="https://kikachangames.github.io/air/div.png">
+<p><b>Tradução, edição de imagens e revisão</b></p> 
+<p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
+<br/>
+
+<h3>Hinrong</h3>
+<img src="https://kikachangames.github.io/air/hin.png">
+<p><b>Game hacking e revisão</b></p>
+<p>Gosto de Suzumiya Haruhi, Scott Pilgrim, Rewrite, Little Busters! e Danganronpa. Faço de tudo e mais um pouco nos projetos e sou apaixonado por fã-traduções. Prazer te conhecer!</p>
 <br/>
 
 <h3>0Mateus</h3>
