@@ -1,6 +1,6 @@
 # Traduções concluídas
 
-<a href="[https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
+<a href="https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
 <img src="https://kikachangames.github.io/projetos/ace.png">
 <br/>
 Ace Higurashi Attorney - A Reviravolta do Curry</a>
