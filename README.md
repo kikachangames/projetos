@@ -1,15 +1,26 @@
-# projetos
-Projetos de tradução de visual novels da kikachangames.
+# Projetos concluídos
 
-<h1>Higanbana no Saku Yoru ni - A Primeira Noite</h1>
-<p>Patch Pt-Br (ONscripter-EN)</p>
+<a href="https://kikachangames.github.io/higanbana1-pt-br/">
+<img src="https://kikachangames.github.io/air/higanbana.jpg">
 <br/>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/higanbana.jpg">
-<br/>
+Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 <br/>
 
+# Projetos em andamento
+<a href="https://kikachangames.github.io/air/">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
+<br/>    
+AIR (Standard Edition)</a>
+<br/>
+    
+<a href="https://vndb.org/v1200" target="_blank">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
+<br/>
+Sayonara o Oshiete</a>
 
-<h3>Membros do projeto</h3>
+ 
+
+# Equipe
 
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
@@ -24,22 +35,6 @@ Projetos de tradução de visual novels da kikachangames.
 </p>
 <br/>
 
-
-<div id="projects">
-<h3>Outros projetos</h3>
-<br/>
-<a href="https://kikachangames.github.io/air/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
-<br/>    
-AIR (Standard Edition)</a>
-<br/>
-    
-<a href="https://vndb.org/v1200" target="_blank">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
-<br/>
-Sayonara o Oshiete</a>
-
-</div>    
 
 <br/>
 <br/>
