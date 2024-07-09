@@ -13,6 +13,13 @@ Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 <br/>
 
 # Traduções em andamento
+
+<a href="https://vndb.org/v8832" target="_blank">
+<img src="https://kikachangames.github.io/projetos/00.jpg">
+<br/>
+Higanbana no Saku Yoru Ni - A Segunda Noite</a>
+<br/>
+
 <a href="https://kikachangames.github.io/air/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
 <br/>    
