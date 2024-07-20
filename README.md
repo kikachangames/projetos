@@ -14,7 +14,7 @@ Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 
 # Traduções em andamento
 
-<a href="https://vndb.org/v8832" target="_blank">
+<a href="https://kikachangames.github.io/higanbana2/">
 <img src="https://kikachangames.github.io/projetos/00.jpg">
 <br/>
 Higanbana no Saku Yoru Ni - A Segunda Noite</a>
@@ -71,5 +71,5 @@ Sayonara o Oshiete</a>
 <br/>
 <hr>
 
-<p><small>Última atualização: 09/07/2024.</small></p>
+<p><small>Última atualização: 20/07/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
