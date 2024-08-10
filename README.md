@@ -26,7 +26,7 @@ Higanbana no Saku Yoru Ni - A Segunda Noite</a>
 AIR (Standard Edition)</a>
 <br/>
     
-<a href="https://vndb.org/v1200" target="_blank">
+<a href="https://kikachangames.github.io/sayooshi/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
 <br/>
 Sayonara o Oshiete</a>
