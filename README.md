@@ -50,7 +50,7 @@ Sayonara o Oshiete</a>
 <h3>Dudas</h3>
 <img src="https://kikachangames.github.io/sayooshi/dudas.png">
 <p><b>Tradução e revisão.</b></p>
-Eae, galerinha do mal, Beleza? Aqui quem fala é a Dudas. Faz pouco tempo desde que entrei nesse mundo das Visual Novels, e tenho amado desde então. Um dos meus principais objetivos é poder trazer o máximo de LNs para a comunidade brasileira.🙂 Gosto de histórias com drama, terror psicológico, ação e fantasia.
+<p>Eae, galerinha do mal, Beleza? Aqui quem fala é a Dudas. Faz pouco tempo desde que entrei nesse mundo das Visual Novels, e tenho amado desde então. Um dos meus principais objetivos é poder trazer o máximo de LNs para a comunidade brasileira.🙂 Gosto de histórias com drama, terror psicológico, ação e fantasia.</p>
 <br/>
 
 <h3>Div-lu</h3>
