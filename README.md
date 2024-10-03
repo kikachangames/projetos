@@ -58,6 +58,12 @@ MOON.</a>
 <p>Eae, galerinha do mal, Beleza? Aqui quem fala é a Dudas. Faz pouco tempo desde que entrei nesse mundo das Visual Novels, e tenho amado desde então. Um dos meus principais objetivos é poder trazer o máximo de LNs para a comunidade brasileira.🙂 Gosto de histórias com drama, terror psicológico, ação e fantasia.</p>
 <br/>
 
+<h3>Alex</h3>
+<img src="https://kikachangames.github.io/sayooshi/alex.png">
+<p>Tradução e revisão.</p>
+<p>Ex-redator. Atualmente operando como tradutor.</p>
+<br/>
+
 <h3>Div-lu</h3>
 <img src="https://kikachangames.github.io/air/div.png">
 <p><b>Tradução, edição de imagens e revisão</b></p> 
@@ -73,7 +79,7 @@ MOON.</a>
 
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
-<p><b>Edição de imagens</b></p>
+<p><b>Game Hacking, edição de imagens e revisão.</b></p>
 <p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
 <br/>
 
@@ -82,5 +88,5 @@ MOON.</a>
 <br/>
 <hr>
 
-<p><small>Última atualização: 17/08/2024.</small></p>
+<p><small>Última atualização: 02/10/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
