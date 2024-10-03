@@ -60,7 +60,7 @@ MOON.</a>
 
 <h3>Alex</h3>
 <img src="https://kikachangames.github.io/sayooshi/alex.png">
-<p>Tradução e revisão.</p>
+<p><b>Tradução e revisão.</b></p>
 <p>Ex-redator. Atualmente operando como tradutor.</p>
 <br/>
 
