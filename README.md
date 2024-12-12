@@ -14,6 +14,12 @@ Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 
 # Traduções em andamento
 
+<a href="https://kikachangames.github.io/higanbana-extra/">
+<img src="https://kikachangames.github.io/projetos/extrat.png">
+<br/>
+Higanbana - Crédito Extra</a>
+<br/>
+
 <a href="https://kikachangames.github.io/higanbana2/">
 <img src="https://kikachangames.github.io/projetos/00.jpg">
 <br/>
@@ -88,5 +94,5 @@ MOON.</a>
 <br/>
 <hr>
 
-<p><small>Última atualização: 02/10/2024.</small></p>
+<p><small>Última atualização: 12/12/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
