@@ -5,11 +5,13 @@
 <br/>
 Ace Higurashi Attorney - A Reviravolta do Curry</a>
 <br/>
+<br/>
 
 <a href="https://kikachangames.github.io/higanbana1-pt-br/">
 <img src="https://kikachangames.github.io/air/higanbana.jpg">
 <br/>
 Higanbana no Saku Yoru Ni - A Primeira Noite</a>
+<br/>
 <br/>
 
 # Traduções em andamento
@@ -38,6 +40,7 @@ Higanbana no Saku Yoru Ni - A Segunda Noite</a>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
 <br/>
 Sayonara o Oshiete</a>
+<br/>
 <br/>
 
 <a href="https://kikachangames.github.io/moon/">
