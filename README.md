@@ -84,7 +84,7 @@ MOON.</a>
 
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
-<p><b>Revisão</b></p>
+<p><b>Revisão e Quality Check.</b></p>
 <p>Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels. Curto muito o trabalho da 07th Expansion e passo o tempo assistindo animes e jogando.
 </p>
 <br/>
