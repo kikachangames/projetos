@@ -18,6 +18,14 @@ Higanbana no Saku Yoru Ni - A Primeira Noite</a>
 <img src="https://kikachangames.github.io/projetos/extrat.png">
 <br/>
 Higanbana - Crédito Extra</a>
+<p>Lançamento: 25/12/2024</p>
+<br/>
+
+<a href="https://kikachangames.github.io/air/">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
+<br/>    
+AIR (Standard Edition)</a>
+<p>Lançamento: 01/01/2025</p>
 <br/>
 
 <a href="https://kikachangames.github.io/higanbana2/">
@@ -25,13 +33,7 @@ Higanbana - Crédito Extra</a>
 <br/>
 Higanbana no Saku Yoru Ni - A Segunda Noite</a>
 <br/>
-
-<a href="https://kikachangames.github.io/air/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
-<br/>    
-AIR (Standard Edition)</a>
-<br/>
-    
+   
 <a href="https://kikachangames.github.io/sayooshi/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
 <br/>
