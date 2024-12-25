@@ -2,22 +2,22 @@
 
 <a href="https://kikachangames.github.io/higanbana-extra/">
 <img src="https://kikachangames.github.io/projetos/extrat.png">
-
-<p>Higanbana - Crédito Extra</a><br/>
+</a>
+<p>Higanbana - Crédito Extra<br/>
 Lançamento: 25/12/2024</p>
 <br/>
 
 <a href="https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
 <img src="https://kikachangames.github.io/projetos/ace.png">
-
-<p>Ace Higurashi Attorney - A Reviravolta do Curry</a><br/>
+</a>
+<p>Ace Higurashi Attorney - A Reviravolta do Curry<br/>
 Lançamento: 16/06/2024</p>
 <br/>
 
 <a href="https://kikachangames.github.io/higanbana1-pt-br/">
 <img src="https://kikachangames.github.io/air/higanbana.jpg">
-
-<p>Higanbana no Saku Yoru Ni - A Primeira Noite</a><br/>
+</a>
+<p>Higanbana no Saku Yoru Ni - A Primeira Noite<br/>
 Lançamento: 01/05/2024</p>
 <br/>
 
@@ -26,29 +26,29 @@ Lançamento: 01/05/2024</p>
 
 <a href="https://kikachangames.github.io/air/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
-
-<p>AIR (Standard Edition)</a><br/>
+</a>
+<p>AIR (Standard Edition)<br/>
 Lançamento: 01/01/2025</p>
 <br/>
 
 <a href="https://kikachangames.github.io/higanbana2/">
 <img src="https://kikachangames.github.io/projetos/00.jpg">
-
-<p>Higanbana no Saku Yoru Ni - A Segunda Noite</a><br/>
+</a>
+<p>Higanbana no Saku Yoru Ni - A Segunda Noite<br/>
 Lançamento: TBA</p>
 <br/>
 
 <a href="https://kikachangames.github.io/sayooshi/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
-
-<p>Sayonara o Oshiete</a><br/>
+</a>
+<p>Sayonara o Oshiete<br/>
 Lançamento: TBA</p>
 <br/>
 
 <a href="https://kikachangames.github.io/moon/">
 <img src="https://kikachangames.github.io/projetos/cover_moonp.jpg">
-
-<p>MOON.</a><br/>
+</a>
+<p>MOON.<br/>
 Lançamento: TBA</p>
 <hr> 
 
