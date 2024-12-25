@@ -17,7 +17,7 @@ Lançamento: 16/06/2024</p>
 <a href="https://kikachangames.github.io/higanbana1-pt-br/">
 <img src="https://kikachangames.github.io/air/higanbana.jpg">
 <br/>
-<p>Higanbana no Saku Yoru Ni - A Primeira Noite</a>
+<p>Higanbana no Saku Yoru Ni - A Primeira Noite</a><br/>
 Lançamento: 01/05/2024</p>
 <br/>
 <br/>
