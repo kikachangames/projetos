@@ -20,7 +20,7 @@ Lançamento: 16/06/2024</p>
 <p>Higanbana no Saku Yoru Ni - A Primeira Noite</a><br/>
 Lançamento: 01/05/2024</p>
 <br/>
-<br/>
+
 
 # Traduções em andamento
 
@@ -37,14 +37,12 @@ Lançamento: 01/01/2025</p>
 <p>Higanbana no Saku Yoru Ni - A Segunda Noite</a></br>
 Lançamento: TBA</p>
 <br/>
-<br/>
 
 <a href="https://kikachangames.github.io/sayooshi/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
 <br/>
 <p>Sayonara o Oshiete</a><br/>
 Lançamento: TBA</p>
-<br/>
 <br/>
 
 <a href="https://kikachangames.github.io/moon/">
