@@ -1,5 +1,12 @@
 # Traduções concluídas
 
+<a href="https://kikachangames.github.io/air/">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
+</a>
+<p>AIR (Standard Edition)<br/>
+Lançamento: 01/01/2025</p>
+<br/>
+
 <a href="https://kikachangames.github.io/higanbana-extra/">
 <img src="https://kikachangames.github.io/projetos/extrat.png">
 </a>
@@ -23,13 +30,6 @@ Lançamento: 01/05/2024</p>
 
 
 # Traduções em andamento
-
-<a href="https://kikachangames.github.io/air/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
-</a>
-<p>AIR (Standard Edition)<br/>
-Lançamento: 01/01/2025</p>
-<br/>
 
 <a href="https://kikachangames.github.io/higanbana2/">
 <img src="https://kikachangames.github.io/projetos/00.jpg">
