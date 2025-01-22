@@ -38,10 +38,10 @@ Lançamento: 01/05/2024</p>
 Lançamento: TBA</p>
 <br/>
 
-<a href="https://kikachangames.github.io/sayooshi/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
+<a href="https://kikachangames.github.io/koropokkur/">
+<img src="https://kikachangames.github.io/koropokkur/img/covert.png">
 </a>
-<p>Sayonara o Oshiete<br/>
+<p>Koropokkur Apaixonada<br/>
 Lançamento: TBA</p>
 <br/>
 
@@ -50,6 +50,15 @@ Lançamento: TBA</p>
 </a>
 <p>MOON.<br/>
 Lançamento: TBA</p>
+<br/>
+
+<a href="https://kikachangames.github.io/sayooshi/">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
+</a>
+<p>Sayonara o Oshiete<br/>
+Lançamento: TBA</p>
+<br/>
+
 <hr> 
 
 # Equipe
