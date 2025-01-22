@@ -39,7 +39,7 @@ Lançamento: TBA</p>
 <br/>
 
 <a href="https://kikachangames.github.io/koropokkur/">
-<img src="https://kikachangames.github.io/koropokkur/img/covert.png">
+<img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
 </a>
 <p>Koropokkur Apaixonada<br/>
 Lançamento: TBA</p>
