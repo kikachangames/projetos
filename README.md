@@ -1,5 +1,12 @@
 # Traduções concluídas
 
+<a href="https://kikachangames.github.io/kuradashi/">
+<img src="https://kikachangames.github.io/projetos/thumb.png">
+</a>
+<p>Higurashi no Naku Koro ni - Kuradashi-hen<br/>
+Lançamento: 16/02/2025</p>
+<br/>
+
 <a href="https://kikachangames.github.io/air/">
 <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
 </a>
