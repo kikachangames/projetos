@@ -1,12 +1,5 @@
 # Traduções em andamento
 
-<a href="https://kikachangames.github.io/higanbana2/">
-<img src="https://kikachangames.github.io/projetos/00.jpg">
-</a>
-<p>Higanbana no Saku Yoru Ni - A Segunda Noite<br/>
-Lançamento: 23/03/2025</p>
-<br/>
-
 <a href="https://kikachangames.github.io/koropokkur/">
 <img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
 </a>
@@ -29,6 +22,14 @@ Lançamento: TBA</p>
 <br/>
 
 # Traduções concluídas
+
+<a href="https://kikachangames.github.io/higanbana2/">
+<img src="https://kikachangames.github.io/projetos/00.jpg">
+</a>
+<p>Higanbana no Saku Yoru Ni - A Segunda Noite<br/>
+Lançamento: 23/03/2025</p>
+<br/>
+
 
 <a href="https://kikachangames.github.io/kuradashi/">
 <img src="https://kikachangames.github.io/projetos/thumb.png">
@@ -117,5 +118,5 @@ Lançamento: 01/05/2024</p>
 <br/>
 <hr>
 
-<p><small>Última atualização: 24/02/2025.</small></p>
+<p><small>Última atualização: 23/03/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
