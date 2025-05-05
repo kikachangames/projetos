@@ -1,4 +1,11 @@
-# Traduções em andamento
+# Projetos em andamento
+
+<a href="https://kikachangames.github.io/air/psp">
+<img src="https://kikachangames.github.io/projetos/air_thumb.jpg">
+</a>
+<p>AIR (PSP)<br/>
+Lançamento: TBA</p>
+<br/>
 
 <a href="https://kikachangames.github.io/koropokkur/">
 <img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
@@ -21,7 +28,7 @@ Lançamento: TBA</p>
 Lançamento: TBA</p>
 <br/>
 
-# Traduções concluídas
+# Projetos concluídos
 
 <a href="https://kikachangames.github.io/higanbana2/">
 <img src="https://kikachangames.github.io/projetos/00.jpg">
