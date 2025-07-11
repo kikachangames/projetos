@@ -4,7 +4,7 @@
 <img src="https://kikachangames.github.io/projetos/air_thumb.jpg">
 </a>
 <p>AIR (PSP)<br/>
-Lançamento: TBA</p>
+Lançamento: 23/07/2025</p>
 <br/>
 
 <a href="https://kikachangames.github.io/koropokkur/">
@@ -125,5 +125,5 @@ Lançamento: 01/05/2024</p>
 <br/>
 <hr>
 
-<p><small>Última atualização: 04/05/2025.</small></p>
+<p><small>Última atualização: 11/06/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
