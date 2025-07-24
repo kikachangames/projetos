@@ -102,7 +102,7 @@ Lançamento: 01/05/2024</p>
 
 <h3>Div-lu</h3>
 <img src="https://kikachangames.github.io/air/div.png">
-<p><b>Tradução, edição de imagens e revisão</b></p> 
+<p><b>Tradução, revisão e edição de imagens.</b></p> 
 <p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
 <br/>
 
