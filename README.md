@@ -108,7 +108,7 @@ Lançamento: 01/05/2024</p>
 
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
-<p><b>Revisão e Quality Check.</b></p>
+<p><b>Game Hacking, revisão e Quality Check.</b></p>
 <p>Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels. Curto muito o trabalho da 07th Expansion e passo o tempo assistindo animes e jogando.
 </p>
 <br/>
