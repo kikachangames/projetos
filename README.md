@@ -78,7 +78,7 @@ Lançamento: 01/05/2024</p>
 
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projetos, tradução e edição de imagens.</b></p>
+<p><b>Líder de projetos, tradução e edição de imagens</b></p>
 <p>Tenho uma paixão por Visual Novels e cheguei nesse universo ao aprender Renpy com o objetivo de criar meu próprio jogo! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
 <br/>
 
@@ -90,32 +90,32 @@ Lançamento: 01/05/2024</p>
 
 <h3>Dudas</h3>
 <img src="https://kikachangames.github.io/sayooshi/dudas.png">
-<p><b>Tradução e revisão.</b></p>
+<p><b>Tradução e revisão</b></p>
 <p>Eae, galerinha do mal, Beleza? Aqui quem fala é a Dudas. Faz pouco tempo desde que entrei nesse mundo das Visual Novels, e tenho amado desde então. Um dos meus principais objetivos é poder trazer o máximo de LNs para a comunidade brasileira.🙂 Gosto de histórias com drama, terror psicológico, ação e fantasia.</p>
 <br/>
 
 <h3>Alex</h3>
 <img src="https://kikachangames.github.io/sayooshi/alex.png">
-<p><b>Tradução e revisão.</b></p>
+<p><b>Tradução e revisão</b></p>
 <p>Ex-redator. Atualmente operando como tradutor.</p>
 <br/>
 
 <h3>Div-lu</h3>
 <img src="https://kikachangames.github.io/air/div.png">
-<p><b>Tradução, revisão e edição de imagens.</b></p> 
+<p><b>Tradução, revisão e edição de imagens</b></p> 
 <p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
 <br/>
 
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
-<p><b>Game Hacking, revisão e Quality Check.</b></p>
+<p><b>Game Hacking, revisão e Quality Check</b></p>
 <p>Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels. Curto muito o trabalho da 07th Expansion e passo o tempo assistindo animes e jogando.
 </p>
 <br/>
 
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
-<p><b>Game Hacking, edição de imagens e revisão.</b></p>
+<p><b>Game Hacking, revisão, edição de imagens</b></p>
 <p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
 <br/>
 
