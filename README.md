@@ -94,18 +94,6 @@ Lançamento: 01/05/2024</p>
 <p>Eae, galerinha do mal, Beleza? Aqui quem fala é a Dudas. Faz pouco tempo desde que entrei nesse mundo das Visual Novels, e tenho amado desde então. Um dos meus principais objetivos é poder trazer o máximo de LNs para a comunidade brasileira.🙂 Gosto de histórias com drama, terror psicológico, ação e fantasia.</p>
 <br/>
 
-<h3>Alex</h3>
-<img src="https://kikachangames.github.io/sayooshi/alex.png">
-<p><b>Tradução e revisão</b></p>
-<p>Ex-redator. Atualmente operando como tradutor.</p>
-<br/>
-
-<h3>Div-lu</h3>
-<img src="https://kikachangames.github.io/air/div.png">
-<p><b>Tradução, revisão e edição de imagens</b></p> 
-<p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
-<br/>
-
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
 <p><b>Game Hacking, revisão e Quality Check</b></p>
@@ -119,6 +107,23 @@ Lançamento: 01/05/2024</p>
 <p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
 <br/>
 
+<h3>Kazuki Minoru</h3>
+<img src="https://kikachangames.github.io/moon/kazuki.png">
+<p><b>Revisão</b></p>
+<p>Olá pessoal! Bom, desde que comecei a jogar visual novels e outros jogos com traduções de fãs, sempre admirei quem faz elas, então pensei que podia fazer parte disso de alguma forma, e aqui estou!</p>
+<br/>
+
+<h3>Alex</h3>
+<img src="https://kikachangames.github.io/sayooshi/alex.png">
+<p><b>Tradução e revisão</b></p>
+<p>Ex-redator. Atualmente operando como tradutor.</p>
+<br/>
+
+<h3>Div-lu</h3>
+<img src="https://kikachangames.github.io/air/div.png">
+<p><b>Tradução, revisão e edição de imagens</b></p> 
+<p>Olá! Sou o Div-lu, mas podem chamar-me só de Div. Amo RPGs, novels e cultura japonesa em geral, especialmente obras como Chaos Head, Air, Clannad, Rewrite e Ace Attorney. Sou fã de traduções feitas por fãs, pois transmitem um carinho especial pela obra.</p>
+<br/>
 
 <br/>
 <br/>
