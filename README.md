@@ -1,4 +1,4 @@
-# Projetos em andamento # Projetos concluídos # Equipe
+# Projetos em andamento
 
 <a href="https://kikachangames.github.io/koropokkur/">
 <img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
