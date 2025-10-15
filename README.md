@@ -101,6 +101,13 @@ Lançamento: 01/05/2024</p>
 </p>
 <br/>
 
+<h3>Takumi</h3>
+<img src="https://kikachangames.github.io/projetos/img/takumi.png">
+<p><b>Tradução</b></p>
+<p>Olá, sou o Takumi, tenho o canal "Takumi Enferrujado" no Youtube onde falo de jogos, animes e visual novels do meu interesse. Sou um leitor e tradutor de longa data no ramo que quer atrair o máximo de gente para o ramo também.
+</p>
+<br/>
+
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p><b>Game Hacking, revisão, edição de imagens</b></p>
@@ -129,5 +136,5 @@ Lançamento: 01/05/2024</p>
 <br/>
 <hr>
 
-<p><small>Última atualização: 16/08/2025.</small></p>
+<p><small>Última atualização: 15/10/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
