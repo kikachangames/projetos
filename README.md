@@ -1,5 +1,12 @@
 # Projetos em andamento
 
+<a href="https://kikachangames.github.io/projetos/bible-black">
+<img src="https://kikachangames.github.io/projetos/img/bb_t.jpg">
+</a>
+<p>Bible Black -A Noite de Walpurgis-<br/>
+Lançamento: TBA</p>
+<br/>
+
 <a href="https://kikachangames.github.io/koropokkur/">
 <img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
 </a>
