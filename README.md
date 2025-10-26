@@ -38,19 +38,28 @@ nav a:hover {
 }
 
 /* Projetos */
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
 .project-card {
+    flex: 1 1 250px;
+    max-width: 300px;
+    text-align: center;
     position: relative;
     overflow: hidden;
     border-radius: 8px;
-    text-align: center;
 }
 
 .project-card img {
     width: 100%;
     height: 300px;
     object-fit: cover;
-    transition: transform 0.3s ease;
     border-radius: 8px;
+    transition: transform 0.3s ease;
 }
 
 .project-card:hover img {
@@ -71,16 +80,14 @@ nav a:hover {
     font-weight: bold;
     font-size: 14px;
     border-radius: 0 0 8px 8px;
-    
-    /* Inicialmente escondido */
-    transform: translateY(100%);
-    transition: transform 0.3s ease;
+    overflow: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
 }
 
 .project-card:hover .overlay {
-    transform: translateY(0); /* sobe a faixa e mostra o conteúdo */
+    opacity: 1;
 }
-
 
 .project-card p {
     margin-top: 8px;
