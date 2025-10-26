@@ -5,9 +5,42 @@
   scroll-behavior: smooth;
   }
 
-  section {
-  padding-top: 70px; /* altura do menu */
-  }
+<!-- Menu fixo no topo -->
+<nav style="
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #1b1b1b;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+">
+  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
+  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
+  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
+</nav>
+
+<!-- Reset de margens/padding -->
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding-top: 70px; /* altura do menu fixo */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Opcional: scroll suave */
+html {
+    scroll-behavior: smooth;
+}
 
   .projects-container {
     display: flex;
@@ -65,12 +98,6 @@
   }
 </style>
 
-
-<nav style="position: fixed; top: 0; width: 100%; background: #1b1b1b; padding: 10px 0; text-align: center; z-index: 1000;">
-  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
-  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
-  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
-</nav>
 
 
 <section id="em-andamento">
