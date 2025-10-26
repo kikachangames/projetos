@@ -1,85 +1,93 @@
-# Projetos em andamento
+<h1>Projetos em andamento</h1>
 
-<a href="https://kikachangames.github.io/bible-black">
-<img src="https://kikachangames.github.io/projetos/img/bb_t.jpg">
-</a>
-<p>Bible Black -A Noite de Walpurgis-<br/>
-Lançamento: TBA</p>
-<br/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/bible-black">
+      <img src="https://kikachangames.github.io/projetos/img/bb_t.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Bible Black -A Noite de Walpurgis-</b><br>Lançamento: TBA</p>
+  </div>
 
-<a href="https://kikachangames.github.io/koropokkur/">
-<img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
-</a>
-<p>Koropokkur Apaixonada<br/>
-Lançamento: TBA</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/koropokkur/">
+      <img src="https://kikachangames.github.io/koropokkur/img/covert1.png" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Koropokkur Apaixonada</b><br>Lançamento: TBA</p>
+  </div>
 
-<a href="https://kikachangames.github.io/moon/">
-<img src="https://kikachangames.github.io/projetos/cover_moonp.jpg">
-</a>
-<p>MOON.<br/>
-Lançamento: TBA</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/moon/">
+      <img src="https://kikachangames.github.io/projetos/cover_moonp.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>MOON.</b><br>Lançamento: TBA</p>
+  </div>
 
-<a href="https://kikachangames.github.io/sayooshi/">
-<img src="https://kikachangames.github.io/projetos/img/00p.jpg">
-</a>
-<p>Sayonara o Oshiete<br/>
-Lançamento: TBA</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/sayooshi/">
+      <img src="https://kikachangames.github.io/projetos/img/00p.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Sayonara o Oshiete</b><br>Lançamento: TBA</p>
+  </div>
+</div>
 
-# Projetos concluídos
+<hr>
 
-<a href="https://kikachangames.github.io/air/psp">
-<img src="https://kikachangames.github.io/projetos/air_thumb.jpg">
-</a>
-<p>AIR (PSP)<br/>
-Lançamento: 23/07/2025</p>
-<br/>
+<h1>Projetos concluídos</h1>
 
-<a href="https://kikachangames.github.io/higanbana2/">
-<img src="https://kikachangames.github.io/projetos/00.jpg">
-</a>
-<p>Higanbana no Saku Yoru Ni - A Segunda Noite<br/>
-Lançamento: 23/03/2025</p>
-<br/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/air/psp">
+      <img src="https://kikachangames.github.io/projetos/air_thumb.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>AIR (PSP)</b><br>Lançamento: 23/07/2025</p>
+  </div>
 
-<a href="https://kikachangames.github.io/kuradashi/">
-<img src="https://kikachangames.github.io/projetos/thumb.png">
-</a>
-<p>Higurashi no Naku Koro ni - Kuradashi-hen<br/>
-Lançamento: 16/02/2025</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/higanbana2/">
+      <img src="https://kikachangames.github.io/projetos/00.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Higanbana no Saku Yoru Ni - A Segunda Noite</b><br>Lançamento: 23/03/2025</p>
+  </div>
 
-<a href="https://kikachangames.github.io/air/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
-</a>
-<p>AIR (Standard Edition)<br/>
-Lançamento: 01/01/2025</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/kuradashi/">
+      <img src="https://kikachangames.github.io/projetos/thumb.png" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Higurashi no Naku Koro ni - Kuradashi-hen</b><br>Lançamento: 16/02/2025</p>
+  </div>
 
-<a href="https://kikachangames.github.io/higanbana-extra/">
-<img src="https://kikachangames.github.io/projetos/extrat.png">
-</a>
-<p>Higanbana - Crédito Extra<br/>
-Lançamento: 25/12/2024</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/air/">
+      <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>AIR (Standard Edition)</b><br>Lançamento: 01/01/2025</p>
+  </div>
 
-<a href="https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
-<img src="https://kikachangames.github.io/projetos/ace.png">
-</a>
-<p>Ace Higurashi Attorney - A Reviravolta do Curry<br/>
-Lançamento: 16/06/2024</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/higanbana-extra/">
+      <img src="https://kikachangames.github.io/projetos/extrat.png" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Higanbana - Crédito Extra</b><br>Lançamento: 25/12/2024</p>
+  </div>
 
-<a href="https://kikachangames.github.io/higanbana1-pt-br/">
-<img src="https://kikachangames.github.io/air/higanbana.jpg">
-</a>
-<p>Higanbana no Saku Yoru Ni - A Primeira Noite<br/>
-Lançamento: 01/05/2024</p>
-<br/>
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
+      <img src="https://kikachangames.github.io/projetos/ace.png" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Ace Higurashi Attorney - A Reviravolta do Curry</b><br>Lançamento: 16/06/2024</p>
+  </div>
 
-<hr> 
+  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+    <a href="https://kikachangames.github.io/higanbana1-pt-br/">
+      <img src="https://kikachangames.github.io/air/higanbana.jpg" style="width: 100%; border-radius: 8px;">
+    </a>
+    <p><b>Higanbana no Saku Yoru Ni - A Primeira Noite</b><br>Lançamento: 01/05/2024</p>
+  </div>
+</div>
+
+<hr>
+
+
 
 # Equipe
 
