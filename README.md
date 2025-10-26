@@ -1,4 +1,4 @@
-<h1>Projetos em andamento</h1>
+<h1>Traduções em andamento</h1>
 
 <style>
   .projects-container {
@@ -93,7 +93,7 @@
 
 <hr>
 
-<h1>Projetos concluídos</h1>
+<h1>Traduções concluídas</h1>
 
 <div class="projects-container">
   <div class="project-card">
