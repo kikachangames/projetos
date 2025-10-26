@@ -110,7 +110,7 @@ nav a:hover {
   <div class="project-card">
     <a href="{{ projeto.link }}">
       <img src="{{ projeto.imagem }}">
-      <div class="overlay">{{ projeto.status | replace: '.', ',' }}%</div>
+      <div class="overlay"><b>Progresso: {{ projeto.status | replace: '.', ',' }}% traduzido</b></div>
     </a>
     <p><b>{{ projeto.nome }}</b><br>Lançamento: {{ projeto.lancamento }}</p>
   </div>
