@@ -3,25 +3,25 @@ em_andamento:
     link: "https://kikachangames.github.io/bible-black"
     imagem: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
     lancamento: "TBA"
-    status: "18,18% traduzido"
+    status: "18.18"
 
   - nome: Koropokkur Apaixonada
     link: "https://kikachangames.github.io/koropokkur/"
     imagem: "https://kikachangames.github.io/koropokkur/img/covert1.png"
     lancamento: "TBA"
-    status: "50% traduzido"
+    status: "50"
 
   - nome: MOON.
     link: "https://kikachangames.github.io/moon/"
     imagem: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
     lancamento: "TBA"
-    status: "60,48% traduzido"
+    status: "60.48"
 
   - nome: Sayonara o Oshiete
     link: "https://kikachangames.github.io/sayooshi/"
     imagem: "https://kikachangames.github.io/projetos/img/00p.jpg"
     lancamento: "TBA"
-    status: "90,64% traduzido"
+    status: "90.64"
 
 concluidas:
   - nome: AIR (PSP)
