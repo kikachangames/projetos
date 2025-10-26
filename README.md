@@ -217,7 +217,7 @@
     <img src="https://kikachangames.github.io/moon/kazuki.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>Kazuki Minoru</h3>
-      <p><b>Revisão</b></p>
+      <p><b>Revisão e Quality Check</b></p>
       <p>Olá pessoal! Bom, desde que comecei a jogar visual novels e outros jogos com traduções de fãs, sempre admirei quem faz elas, então pensei que podia fazer parte disso de alguma forma, e aqui estou!</p>
     </div>
   </div>
