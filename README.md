@@ -1,30 +1,91 @@
-<h1>Traduções em andamento</h1>
+<h1>Projetos em andamento</h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+<style>
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .project-card {
+    flex: 1 1 250px;
+    max-width: 300px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+
+  .project-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+  }
+
+  .project-card:hover img {
+    transform: scale(1.05);
+  }
+
+  /* legenda sobre a imagem */
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 0;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 14px;
+    overflow: hidden;
+    border-radius: 0 0 8px 8px;
+    transition: height 0.3s ease;
+  }
+
+  .project-card:hover .overlay {
+    height: 40px; /* altura da faixa ao passar o mouse */
+  }
+
+  .project-card p {
+    margin-top: 8px;
+  }
+</style>
+
+<div class="projects-container">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/bible-black">
-      <img src="https://kikachangames.github.io/projetos/img/bb_t.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/img/bb_t.jpg">
+      <div class="overlay">Bible Black -A Noite de Walpurgis-</div>
     </a>
     <p><b>Bible Black -A Noite de Walpurgis-</b><br>Lançamento: TBA</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/koropokkur/">
-      <img src="https://kikachangames.github.io/koropokkur/img/covert1.png" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/koropokkur/img/covert1.png">
+      <div class="overlay">Koropokkur Apaixonada</div>
     </a>
     <p><b>Koropokkur Apaixonada</b><br>Lançamento: TBA</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/moon/">
-      <img src="https://kikachangames.github.io/projetos/cover_moonp.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/cover_moonp.jpg">
+      <div class="overlay">MOON.</div>
     </a>
     <p><b>MOON.</b><br>Lançamento: TBA</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/sayooshi/">
-      <img src="https://kikachangames.github.io/projetos/img/00p.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/img/00p.jpg">
+      <div class="overlay">Sayonara o Oshiete</div>
     </a>
     <p><b>Sayonara o Oshiete</b><br>Lançamento: TBA</p>
   </div>
@@ -32,62 +93,67 @@
 
 <hr>
 
-<h1>Traduções concluídas</h1>
+<h1>Projetos concluídos</h1>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+<div class="projects-container">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/air/psp">
-      <img src="https://kikachangames.github.io/projetos/air_thumb.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/air_thumb.jpg">
+      <div class="overlay">AIR (PSP)</div>
     </a>
     <p><b>AIR (PSP)</b><br>Lançamento: 23/07/2025</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/higanbana2/">
-      <img src="https://kikachangames.github.io/projetos/00.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/00.jpg">
+      <div class="overlay">Higanbana no Saku Yoru Ni - A Segunda Noite</div>
     </a>
     <p><b>Higanbana no Saku Yoru Ni - A Segunda Noite</b><br>Lançamento: 23/03/2025</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/kuradashi/">
-      <img src="https://kikachangames.github.io/projetos/thumb.png" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/thumb.png">
+      <div class="overlay">Higurashi no Naku Koro ni - Kuradashi-hen</div>
     </a>
     <p><b>Higurashi no Naku Koro ni - Kuradashi-hen</b><br>Lançamento: 16/02/2025</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/air/">
-      <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg">
+      <div class="overlay">AIR (Standard Edition)</div>
     </a>
     <p><b>AIR (Standard Edition)</b><br>Lançamento: 01/01/2025</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/higanbana-extra/">
-      <img src="https://kikachangames.github.io/projetos/extrat.png" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/extrat.png">
+      <div class="overlay">Higanbana - Crédito Extra</div>
     </a>
     <p><b>Higanbana - Crédito Extra</b><br>Lançamento: 25/12/2024</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/">
-      <img src="https://kikachangames.github.io/projetos/ace.png" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/projetos/ace.png">
+      <div class="overlay">Ace Higurashi Attorney - A Reviravolta do Curry</div>
     </a>
     <p><b>Ace Higurashi Attorney - A Reviravolta do Curry</b><br>Lançamento: 16/06/2024</p>
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
+  <div class="project-card">
     <a href="https://kikachangames.github.io/higanbana1-pt-br/">
-      <img src="https://kikachangames.github.io/air/higanbana.jpg" style="width: 100%; border-radius: 8px;">
+      <img src="https://kikachangames.github.io/air/higanbana.jpg">
+      <div class="overlay">Higanbana no Saku Yoru Ni - A Primeira Noite</div>
     </a>
     <p><b>Higanbana no Saku Yoru Ni - A Primeira Noite</b><br>Lançamento: 01/05/2024</p>
   </div>
 </div>
 
 <hr>
-
-
 
 # Equipe
 
