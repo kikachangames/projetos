@@ -105,11 +105,12 @@ nav a:hover {
     
 <h1>Traduções em andamento</h1>
 <div class="projects-container">
-  {% for projeto in site.data.projetos.em_andamento %}
+  {% assign projetos_ordenados = site.data.projetos.em_andamento | sort: "status" | reverse %}
+  {% for projeto in projetos_ordenados %}
   <div class="project-card">
     <a href="{{ projeto.link }}">
       <img src="{{ projeto.imagem }}">
-      <div class="overlay">Progresso: {{ projeto.status }}</div>
+      <div class="overlay">{{ projeto.status }}%</div>
     </a>
     <p><b>{{ projeto.nome }}</b><br>Lançamento: {{ projeto.lancamento }}</p>
   </div>
@@ -117,7 +118,6 @@ nav a:hover {
 </div>
     
 </section>
-
 <hr>
 
 <section id="concluidas">
