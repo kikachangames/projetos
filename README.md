@@ -1,5 +1,9 @@
 
 <style>
+  html {
+  scroll-behavior: smooth;
+  }
+
   .projects-container {
     display: flex;
     flex-wrap: wrap;
