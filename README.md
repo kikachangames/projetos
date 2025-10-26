@@ -1,4 +1,3 @@
-<h1>Traduções em andamento</h1>
 
 <style>
   .projects-container {
@@ -57,7 +56,19 @@
   }
 </style>
 
-<div class="projects-container">
+
+<nav style="position: fixed; top: 0; width: 100%; background: #1b1b1b; padding: 10px 0; text-align: center; z-index: 1000;">
+  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
+  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
+  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
+</nav>
+
+
+<section id="em-andamento">
+  
+<h1>Traduções em andamento</h1>
+
+  <div class="projects-container">
   <div class="project-card">
     <a href="https://kikachangames.github.io/bible-black">
       <img src="https://kikachangames.github.io/projetos/img/bb_t.jpg">
@@ -90,9 +101,11 @@
     <p><b>Sayonara o Oshiete</b><br>Lançamento: TBA</p>
   </div>
 </div>
-
+</section>
 <hr>
 
+<section id="concluidas">
+  
 <h1>Traduções concluídas</h1>
 
 <div class="projects-container">
@@ -152,9 +165,11 @@
     <p><b>Higanbana no Saku Yoru Ni - A Primeira Noite</b><br>Lançamento: 01/05/2024</p>
   </div>
 </div>
+</section>
 
 <hr>
 
+<section id="equipe">
 <h1>Equipe</h1>
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
@@ -241,6 +256,7 @@
   </div>
 
 </div>
+</section>
 
 <hr>
 
