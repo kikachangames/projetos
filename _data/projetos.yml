@@ -1,56 +1,67 @@
 em_andamento:
-  - name: Bible Black - A Noite de Walpurgis
-    url: "https://kikachangames.github.io/bible-black"
-    img: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
+  - nome: Bible Black - A Noite de Walpurgis
+    link: "https://kikachangames.github.io/bible-black"
+    imagem: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
+    lancamento: "TBA"
     status: "18,18% traduzido"
 
-  - name: Koropokkur Apaixonada
-    url: "https://kikachangames.github.io/koropokkur/"
-    img: "https://kikachangames.github.io/koropokkur/img/covert1.png"
+  - nome: Koropokkur Apaixonada
+    link: "https://kikachangames.github.io/koropokkur/"
+    imagem: "https://kikachangames.github.io/koropokkur/img/covert1.png"
+    lancamento: "TBA"
     status: "50% traduzido"
 
-  - name: MOON.
-    url: "https://kikachangames.github.io/moon/"
-    img: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
+  - nome: MOON.
+    link: "https://kikachangames.github.io/moon/"
+    imagem: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
+    lancamento: "TBA"
     status: "60,48% traduzido"
 
-  - name: Sayonara o Oshiete
-    url: "https://kikachangames.github.io/sayooshi/"
-    img: "https://kikachangames.github.io/projetos/img/00p.jpg"
+  - nome: Sayonara o Oshiete
+    link: "https://kikachangames.github.io/sayooshi/"
+    imagem: "https://kikachangames.github.io/projetos/img/00p.jpg"
+    lancamento: "TBA"
     status: "90,64% traduzido"
 
 concluidas:
-  - name: AIR (PSP)
-    url: "https://kikachangames.github.io/air/psp"
-    img: "https://kikachangames.github.io/projetos/air_thumb.jpg"
+  - nome: AIR (PSP)
+    link: "https://kikachangames.github.io/air/psp"
+    imagem: "https://kikachangames.github.io/projetos/air_thumb.jpg"
+    lancamento: "23/07/2025"
     status: "100% traduzido"
 
-  - name: Higanbana no Saku Yoru Ni - A Segunda Noite
-    url: "https://kikachangames.github.io/higanbana2/"
-    img: "https://kikachangames.github.io/projetos/00.jpg"
+  - nome: Higanbana no Saku Yoru Ni - A Segunda Noite
+    link: "https://kikachangames.github.io/higanbana2/"
+    imagem: "https://kikachangames.github.io/projetos/00.jpg"
+    lancamento: "23/03/2025"
     status: "100% traduzido"
 
-  - name: Higurashi no Naku Koro ni - Kuradashi-hen
-    url: "https://kikachangames.github.io/kuradashi/"
-    img: "https://kikachangames.github.io/projetos/thumb.png"
+  - nome: Higurashi no Naku Koro ni - Kuradashi-hen
+    link: "https://kikachangames.github.io/kuradashi/"
+    imagem: "https://kikachangames.github.io/projetos/thumb.png"
+    lancamento: "16/02/2025"
     status: "100% traduzido"
 
-  - name: AIR (Standard Edition)
-    url: "https://kikachangames.github.io/air/"
-    img: "https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg"
+  - nome: AIR (Standard Edition)
+    link: "https://kikachangames.github.io/air/"
+    imagem: "https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg"
+    lancamento: "01/01/2025"
     status: "100% traduzido"
 
-  - name: Higanbana - Crédito Extra
-    url: "https://kikachangames.github.io/higanbana-extra/"
-    img: "https://kikachangames.github.io/projetos/extrat.png"
+  - nome: Higanbana - Crédito Extra
+    link: "https://kikachangames.github.io/higanbana-extra/"
+    imagem: "https://kikachangames.github.io/projetos/extrat.png"
+    lancamento: "25/12/2024"
     status: "100% traduzido"
 
-  - name: Ace Higurashi Attorney - A Reviravolta do Curry
-    url: "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/"
-    img: "https://kikachangames.github.io/projetos/ace.png"
+  - nome: Ace Higurashi Attorney - A Reviravolta do Curry
+    link: "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/"
+    imagem: "https://kikachangames.github.io/projetos/ace.png"
+    lancamento: "16/06/2024"
     status: "100% traduzido"
 
-  - name: Higanbana no Saku Yoru Ni - A Primeira Noite
-    url: "https://kikachangames.github.io/higanbana1-pt-br/"
-    img: "https://kikachangames.github.io/air/higanbana.jpg"
+  - nome: Higanbana no Saku Yoru Ni - A Primeira Noite
+    link: "https://kikachangames.github.io/higanbana1-pt-br/"
+    imagem: "https://kikachangames.github.io/air/higanbana.jpg"
+    lancamento: "01/05/2024"
     status: "100% traduzido"
