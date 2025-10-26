@@ -1,7 +1,12 @@
 
 <style>
+  
   html {
   scroll-behavior: smooth;
+  }
+
+  section {
+  padding-top: 70px; /* altura do menu */
   }
 
   .projects-container {
