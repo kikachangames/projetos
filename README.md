@@ -3,7 +3,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    padding-top: 70px; /* Espaço para o menu */
+    padding-top: 50px; /* Espaço para o menu */
     box-sizing: border-box;
 }
 
