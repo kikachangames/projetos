@@ -1,4 +1,4 @@
-<h1>Projetos em andamento</h1>
+<h1>Traduções em andamento</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h1>Projetos concluídos</h1>
+<h1>Traduções concluídas</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center;">
