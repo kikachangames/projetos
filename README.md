@@ -16,11 +16,7 @@
     text-align: center;
     z-index: 1000;
 ">
-  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
-  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
-  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
-</nav>
-
+ 
 <!-- Reset de margens/padding -->
 <style>
 html, body {
@@ -98,6 +94,11 @@ html {
   }
 </style>
 
+<nav> 
+  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
+  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
+  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
+</nav>
 
 
 <section id="em-andamento">
