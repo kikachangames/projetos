@@ -155,7 +155,7 @@
 
 <hr>
 
-<h2>Equipe</h2>
+<h1>Equipe</h1>
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
