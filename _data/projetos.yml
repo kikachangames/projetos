@@ -1,0 +1,56 @@
+em_andamento:
+  - name: Bible Black - A Noite de Walpurgis
+    url: "https://kikachangames.github.io/bible-black"
+    img: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
+    status: "18,18% traduzido"
+
+  - name: Koropokkur Apaixonada
+    url: "https://kikachangames.github.io/koropokkur/"
+    img: "https://kikachangames.github.io/koropokkur/img/covert1.png"
+    status: "50% traduzido"
+
+  - name: MOON.
+    url: "https://kikachangames.github.io/moon/"
+    img: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
+    status: "60,48% traduzido"
+
+  - name: Sayonara o Oshiete
+    url: "https://kikachangames.github.io/sayooshi/"
+    img: "https://kikachangames.github.io/projetos/img/00p.jpg"
+    status: "90,64% traduzido"
+
+concluidas:
+  - name: AIR (PSP)
+    url: "https://kikachangames.github.io/air/psp"
+    img: "https://kikachangames.github.io/projetos/air_thumb.jpg"
+    status: "100% traduzido"
+
+  - name: Higanbana no Saku Yoru Ni - A Segunda Noite
+    url: "https://kikachangames.github.io/higanbana2/"
+    img: "https://kikachangames.github.io/projetos/00.jpg"
+    status: "100% traduzido"
+
+  - name: Higurashi no Naku Koro ni - Kuradashi-hen
+    url: "https://kikachangames.github.io/kuradashi/"
+    img: "https://kikachangames.github.io/projetos/thumb.png"
+    status: "100% traduzido"
+
+  - name: AIR (Standard Edition)
+    url: "https://kikachangames.github.io/air/"
+    img: "https://kikachangames.github.io/higanbana1-pt-br/cover_air.jpg"
+    status: "100% traduzido"
+
+  - name: Higanbana - Crédito Extra
+    url: "https://kikachangames.github.io/higanbana-extra/"
+    img: "https://kikachangames.github.io/projetos/extrat.png"
+    status: "100% traduzido"
+
+  - name: Ace Higurashi Attorney - A Reviravolta do Curry
+    url: "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/"
+    img: "https://kikachangames.github.io/projetos/ace.png"
+    status: "100% traduzido"
+
+  - name: Higanbana no Saku Yoru Ni - A Primeira Noite
+    url: "https://kikachangames.github.io/higanbana1-pt-br/"
+    img: "https://kikachangames.github.io/air/higanbana.jpg"
+    status: "100% traduzido"
