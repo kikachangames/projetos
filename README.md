@@ -1,12 +1,21 @@
-
+<!-- Reset de margens/padding e scroll suave -->
 <style>
-  
-  html {
-  scroll-behavior: smooth;
-  }
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-<!-- Menu fixo no topo -->
-<nav style="
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 70px; /* altura do menu fixo */
+}
+
+/* menu */
+nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -15,59 +24,48 @@
     padding: 10px 0;
     text-align: center;
     z-index: 1000;
-">
- 
-<!-- Reset de margens/padding -->
-<style>
-html, body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
 
-section {
-    padding-top: 70px; /* altura do menu fixo */
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
 }
 
-a:hover {
+nav a:hover {
     text-decoration: underline;
 }
 
-/* Opcional: scroll suave */
-html {
-    scroll-behavior: smooth;
-}
-
-  .projects-container {
+/* Projetos */
+.projects-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-  }
+}
 
-  .project-card {
+.project-card {
     flex: 1 1 250px;
     max-width: 300px;
     text-align: center;
     position: relative;
     overflow: hidden;
     border-radius: 8px;
-  }
+}
 
-  .project-card img {
+.project-card img {
     width: 100%;
     height: 300px;
     object-fit: cover;
     border-radius: 8px;
     transition: transform 0.3s ease;
-  }
+}
 
-  .project-card:hover img {
+.project-card:hover img {
     transform: scale(1.05);
-  }
+}
 
-  /* legenda sobre a imagem */
-  .overlay {
+.overlay {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -83,26 +81,25 @@ html {
     overflow: hidden;
     border-radius: 0 0 8px 8px;
     transition: height 0.3s ease;
-  }
+}
 
-  .project-card:hover .overlay {
-    height: 40px; /* altura da faixa ao passar o mouse */
-  }
+.project-card:hover .overlay {
+    height: 40px;
+}
 
-  .project-card p {
+.project-card p {
     margin-top: 8px;
-  }
+}
 </style>
 
-<nav> 
-  <a href="#em-andamento" style="margin: 0 15px; color: white; text-decoration: none;">Em andamento</a>
-  <a href="#concluidas" style="margin: 0 15px; color: white; text-decoration: none;">Concluídas</a>
-  <a href="#equipe" style="margin: 0 15px; color: white; text-decoration: none;">Equipe</a>
+<!-- Menu fixo -->
+<nav>
+  <a href="#em-andamento">Em andamento</a>
+  <a href="#concluidas">Concluídas</a>
+  <a href="#equipe">Equipe</a>
 </nav>
 
-
 <section id="em-andamento">
-  
 <h1>Traduções em andamento</h1>
 
   <div class="projects-container">
