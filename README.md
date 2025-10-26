@@ -12,7 +12,7 @@ html {
 }
 
 section {
-    padding-top: 50px; /* altura do menu fixo */
+    padding-top: 40px; /* altura do menu fixo */
 }
 
 /* menu */
