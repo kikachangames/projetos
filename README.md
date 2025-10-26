@@ -22,7 +22,7 @@ Lançamento: TBA</p>
 <br/>
 
 <a href="https://kikachangames.github.io/sayooshi/">
-<img src="https://kikachangames.github.io/higanbana1-pt-br/cover_sayooshi.jpg">
+<img src="https://kikachangames.github.io/projetos/img/00p.jpg">
 </a>
 <p>Sayonara o Oshiete<br/>
 Lançamento: TBA</p>
