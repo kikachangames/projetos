@@ -81,12 +81,12 @@ nav a:hover {
     font-size: 14px;
     border-radius: 0 0 8px 8px;
     overflow: hidden;
-    opacity: 0;
-    transition: opacity 0.3s ease;
+    transform: translateY(100%); /* começa fora da imagem */
+    transition: transform 0.3s ease;
 }
 
 .project-card:hover .overlay {
-    opacity: 1;
+    transform: translateY(0); /* sobe ao passar o mouse */
 }
 
 .project-card p {
