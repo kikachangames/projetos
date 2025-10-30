@@ -1,33 +1,16 @@
 <style>
-/* Remove o header do tema minima */
-header.site-header,
 .site-header {
-  display: none !important;
-  height: 0 !important;
+  border: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  border: none !important;
+  height: 0 !important;
 }
-
-/* Zera margens e preenchimentos no topo do conteúdo */
-body > .wrapper,
-body > .page-content,
-body > .site-main,
-body > .main-content {
+.page-content {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* Ajusta seu menu fixo para estar visível e no topo absoluto */
-nav {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100% !important;
-  z-index: 9999 !important;
-}
-
-  html, body {
+html, body {
     margin: 0;
     padding: 0;
     padding-top: 25px; /* Espaço para o menu */
