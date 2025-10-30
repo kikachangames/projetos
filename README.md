@@ -115,8 +115,9 @@ nav a:hover {
   <a href="#em-andamento">Em andamento</a>
   <a href="#concluidas">Concluídas</a>
   <a href="#equipe">Equipe</a>
+  <img src="https://kikachangames.github.io/projetos/img/banner.png">
+
 </nav>
-<img src="https://kikachangames.github.io/projetos/img/banner.png">
 
 <section id="em-andamento">
     
