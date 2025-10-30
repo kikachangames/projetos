@@ -1,5 +1,4 @@
-<head>
-  <style>
+<style>
 .site-header {
   border: none !important;
   margin: 0 !important;
@@ -104,24 +103,60 @@ nav a:hover {
     margin-top: 8px;
 }
 
-  .site-header, header, .banner {
-  margin: 0 !important;
-  padding: 0 !important;
-  border: none !important;
-  height: auto !important;
+</style>
+<!-- Topo do site: banner + menu -->
+<style>
+/* Reset completo para o topo */
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Banner */
+#custom-banner {
+    width: 100%;
+    display: block;
+}
+
+/* Menu fixo sobre o banner */
+#custom-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #1b1b1b;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+#custom-menu a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#custom-menu a:hover {
+    text-decoration: underline;
+}
+
+/* Espaço para o menu fixo */
+body {
+    padding-top: 50px; /* altura do menu */
 }
 </style>
-</head>
-<!-- Menu fixo -->
-<nav>
+
+<!-- Banner -->
+<img id="custom-banner" src="https://kikachangames.github.io/projetos/img/banner.png" alt="Banner">
+
+<!-- Menu -->
+<nav id="custom-menu">
   <a href="#em-andamento">Em andamento</a>
   <a href="#concluidas">Concluídas</a>
   <a href="#equipe">Equipe</a>
 </nav>
-
-<div class="banner">
-  <img src="https://kikachangames.github.io/projetos/img/banner.png" style="width:100%; display:block;">
-</div>
 
 
   <section id="em-andamento">
