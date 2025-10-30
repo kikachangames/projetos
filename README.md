@@ -102,6 +102,13 @@ nav a:hover {
 .project-card p {
     margin-top: 8px;
 }
+
+  .site-header, header, .banner {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  height: auto !important;
+}
 </style>
 
 <!-- Menu fixo -->
@@ -111,9 +118,10 @@ nav a:hover {
   <a href="#equipe">Equipe</a>
 </nav>
 
-<header>
-<img src="https://kikachangames.github.io/projetos/img/banner.png">
-</header>
+<div class="banner">
+  <img src="https://kikachangames.github.io/projetos/img/banner.png" style="width:100%; display:block;">
+</div>
+
 
   <section id="em-andamento">
     
