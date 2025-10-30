@@ -1,7 +1,7 @@
-<!-- Reset de margens/padding e scroll suave -->
 <style>
-/* Remove completamente o header padrão do tema minima */
-header.site-header {
+/* Remove o header do tema minima */
+header.site-header,
+.site-header {
   display: none !important;
   height: 0 !important;
   margin: 0 !important;
@@ -9,14 +9,25 @@ header.site-header {
   border: none !important;
 }
 
-/* Remove o espaçamento que o tema adiciona ao redor do conteúdo */
-.page-content,
-.wrapper {
+/* Zera margens e preenchimentos no topo do conteúdo */
+body > .wrapper,
+body > .page-content,
+body > .site-main,
+body > .main-content {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
-    
-html, body {
+
+/* Ajusta seu menu fixo para estar visível e no topo absoluto */
+nav {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  z-index: 9999 !important;
+}
+
+  html, body {
     margin: 0;
     padding: 0;
     padding-top: 25px; /* Espaço para o menu */
