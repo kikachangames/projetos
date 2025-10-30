@@ -1,5 +1,9 @@
 <!-- Reset de margens/padding e scroll suave -->
 <style>
+header.site-header {
+  display: none !important;
+}
+    
 html, body {
     margin: 0;
     padding: 0;
