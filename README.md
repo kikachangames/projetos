@@ -1,4 +1,5 @@
-<style>
+<head>
+  <style>
 .site-header {
   border: none !important;
   margin: 0 !important;
@@ -110,7 +111,7 @@ nav a:hover {
   height: auto !important;
 }
 </style>
-
+</head>
 <!-- Menu fixo -->
 <nav>
   <a href="#em-andamento">Em andamento</a>
