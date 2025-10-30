@@ -1,7 +1,16 @@
 <!-- Reset de margens/padding e scroll suave -->
 <style>
-header.site-header {
-  display: none !important;
+header img {
+    width: 100%;       /* ocupa toda a largura da tela */
+    height: auto;      /* mantém a proporção da imagem */
+}
+
+/* Ajustes específicos para telas pequenas (mobile) */
+@media (max-width: 600px) {
+    header img {
+        width: 100%;   /* ainda ocupa toda a largura */
+        height: auto;  /* mantém proporção */
+    }
 }
     
 html, body {
@@ -98,13 +107,15 @@ nav a:hover {
 }
 </style>
 
-<!-- Menu fixo -->
-<nav>
+<header>
+<img src="https://kikachangames.github.io/projetos/img/banner.png">
+</header>
+
+  <nav>
   <a href="#em-andamento">Em andamento</a>
   <a href="#concluidas">Concluídas</a>
   <a href="#equipe">Equipe</a>
 </nav>
-<img src="https://kikachangames.github.io/projetos/img/banner.png">
 
 <section id="em-andamento">
     
