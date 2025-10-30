@@ -1,7 +1,19 @@
 <!-- Reset de margens/padding e scroll suave -->
 <style>
+/* Remove completamente o header padrão do tema minima */
 header.site-header {
   display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+/* Remove o espaçamento que o tema adiciona ao redor do conteúdo */
+.page-content,
+.wrapper {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
     
 html, body {
@@ -105,6 +117,7 @@ nav a:hover {
   <a href="#equipe">Equipe</a>
 </nav>
 <img src="https://kikachangames.github.io/projetos/img/banner.png">
+
 <section id="em-andamento">
     
 <h1>Traduções em andamento</h1>
