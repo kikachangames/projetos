@@ -206,6 +206,15 @@ nav a:hover {
   </div>
 
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://kikachangames.github.io/projetos/img/crynvalen.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
+    <div style="max-width: 700px;">
+      <h3>Crynvalen</h3>
+      <p><b>Design e Edição de Imagens</b></p>
+      <p>Oi! Pode me chamar de Crynvalen ou simplesmente Crym, responsável por um pouco de design e edição de imagens de interface aqui na Kikachan. Entrei recentemente no mundo das VNs, tendo minha influência em jogos famosos, tipo DDLC e Higurashi, sou uma grande fã de RPGs makers também.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>Ceuipsolon</h3>
