@@ -17,13 +17,13 @@ em_andamento:
     lancamento: "TBA"
     status: "63.71"
 
+concluidas:
   - nome: Sayonara o Oshiete
     link: "https://kikachangames.github.io/sayooshi/"
     imagem: "https://kikachangames.github.io/projetos/img/00p.jpg"
     lancamento: "25/12/2025"
-    status: "100"
-
-concluidas:
+    status: "100% traduzido"
+    
   - nome: AIR (PSP)
     link: "https://kikachangames.github.io/air/psp"
     imagem: "https://kikachangames.github.io/projetos/air_thumb.jpg"
