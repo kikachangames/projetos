@@ -18,6 +18,12 @@ em_andamento:
     status: "63.71"
 
 concluidas:
+  - nome: Go For A Punch! Saki Sanobashi
+    link: "https://kikachangames.github.io/Saki-Sanobashi/"
+    imagem: "https://kikachangames.github.io/Saki-Sanobashi/img/saki-cover.jpg"
+    lancamento: "05/01/2026"
+    status: "100% traduzido"
+    
   - nome: Sayonara o Oshiete
     link: "https://kikachangames.github.io/sayooshi/"
     imagem: "https://kikachangames.github.io/projetos/img/00p.jpg"
