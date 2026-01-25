@@ -17,6 +17,12 @@ em_andamento:
     lancamento: "TBA"
     status: "70.16"
 
+  - nome: Kare no Hazama De ~White Labyrinth~ Demo
+    link: "https://kikachangames.github.io/labirinto-branco/"
+    imagem: "https://github.com/user-attachments/assets/5a848ee4-7b53-40ce-b8db-741c5627f2a0"
+    lancamento: "26/01/2026"
+    status: "100"
+
 concluidas:
   - nome: Go For A Punch! Saki Sanobashi
     link: "https://kikachangames.github.io/Saki-Sanobashi/"
