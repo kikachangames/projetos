@@ -1,12 +1,12 @@
 em_andamento:
 
-   - nome: planetarian: Globo de Neve
+  - nome: planetarian: Globo de Neve
     link: "https://kikachangames.github.io/globo-de-neve/"
     imagem: "https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712"
     lancamento: "14/03/2026"
     status: "100"
     
-    - nome: Bible Black - A Noite de Walpurgis
+  - nome: Bible Black - A Noite de Walpurgis
     link: "https://kikachangames.github.io/bible-black"
     imagem: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
     lancamento: "TBA"
