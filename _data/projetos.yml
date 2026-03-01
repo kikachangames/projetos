@@ -1,6 +1,5 @@
 em_andamento:
-
-  - nome: planetarian: Globo de Neve
+  - nome: "planetarian: Globo de Neve"
     link: "https://kikachangames.github.io/globo-de-neve/"
     imagem: "https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712"
     lancamento: "14/03/2026"
@@ -24,8 +23,7 @@ em_andamento:
     lancamento: "TBA"
     status: "70.16"
 
-concluidas:
-   
+concluidas:   
   - nome: Kare no Hazama De ~Labirinto Branco~ Demo
     link: "https://kikachangames.github.io/labirinto-branco/"
     imagem: "https://github.com/user-attachments/assets/5a848ee4-7b53-40ce-b8db-741c5627f2a0"
