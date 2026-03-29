@@ -15,7 +15,7 @@ em_andamento:
     link: "https://kikachangames.github.io/moon/"
     imagem: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
     lancamento: "TBA"
-    status: "70.16"
+    status: "75"
 
 concluidas:
   - nome: "planetarian: Globo de Neve"
