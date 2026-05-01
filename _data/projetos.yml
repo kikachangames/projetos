@@ -5,12 +5,6 @@ em_andamento:
     lancamento: "TBA"
     status: "27"
 
-  - nome: Koropokkur Apaixonada
-    link: "https://kikachangames.github.io/koropokkur/"
-    imagem: "https://kikachangames.github.io/koropokkur/img/covert1.png"
-    lancamento: "01/05/2026"
-    status: "100"
-
   - nome: MOON.
     link: "https://kikachangames.github.io/moon/"
     imagem: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
@@ -18,6 +12,12 @@ em_andamento:
     status: "75"
 
 concluidas:
+  - nome: Koropokkur Apaixonada
+    link: "https://kikachangames.github.io/koropokkur/"
+    imagem: "https://kikachangames.github.io/koropokkur/img/covert1.png"
+    lancamento: "01/05/2026"
+    status: "100"
+
   - nome: "planetarian: Globo de Neve"
     link: "https://kikachangames.github.io/globo-de-neve/"
     imagem: "https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712"
