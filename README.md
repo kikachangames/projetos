@@ -197,6 +197,15 @@ nav a:hover {
   </div>
 
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://kikachangames.github.io/moon/kazuki.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
+    <div style="max-width: 700px;">
+      <h3>Kazuki Minoru</h3>
+      <p><b>Revisão e Quality Check</b></p>
+      <p>Olá pessoal! Bom, desde que comecei a jogar visual novels e outros jogos com traduções de fãs, sempre admirei quem faz elas, então pensei que podia fazer parte disso de alguma forma, e aqui estou!</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>0Mateus</h3>
@@ -229,15 +238,6 @@ nav a:hover {
       <h3>Ceuipsolon</h3>
       <p><b>Game Hacking, revisão, edição de imagens</b></p>
       <p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://kikachangames.github.io/moon/kazuki.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
-    <div style="max-width: 700px;">
-      <h3>Kazuki Minoru</h3>
-      <p><b>Revisão e Quality Check</b></p>
-      <p>Olá pessoal! Bom, desde que comecei a jogar visual novels e outros jogos com traduções de fãs, sempre admirei quem faz elas, então pensei que podia fazer parte disso de alguma forma, e aqui estou!</p>
     </div>
   </div>
 
