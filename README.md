@@ -179,6 +179,15 @@ nav a:hover {
   </div>
 
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://kikachangames.github.io/projetos/img/ashuramage.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
+    <div style="max-width: 700px;">
+      <h3>AshuraMage</h3>
+      <p><b>Tradução e edição de imagens</b></p>
+      <p>"Brilho Eterno de uma Mente Sem Lembranças" é meu filme favorito. Mal posso esperar pra assisti-lo um dia.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://kikachangames.github.io/sayooshi/dudas.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>Dudas</h3>
