@@ -200,7 +200,7 @@ nav a:hover {
     <img src="https://kikachangames.github.io/moon/kazuki.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>Kazuki Minoru</h3>
-      <p><b>Revisão e Quality Check</b></p>
+      <p><b>Revisão e quality check</b></p>
       <p>Olá pessoal! Bom, desde que comecei a jogar visual novels e outros jogos com traduções de fãs, sempre admirei quem faz elas, então pensei que podia fazer parte disso de alguma forma, e aqui estou!</p>
     </div>
   </div>
@@ -209,7 +209,7 @@ nav a:hover {
     <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>0Mateus</h3>
-      <p><b>Game Hacking, revisão e Quality Check</b></p>
+      <p><b>Game hacking, revisão e quality check</b></p>
       <p>Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels. Curto muito o trabalho da 07th Expansion e passo o tempo assistindo animes e jogando.</p>
     </div>
   </div>
@@ -227,7 +227,7 @@ nav a:hover {
     <img src="https://kikachangames.github.io/projetos/img/crynvalen.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
       <h3>Crynvalen</h3>
-      <p><b>Design e Edição de Imagens</b></p>
+      <p><b>Design e edição de imagens</b></p>
       <p>Oi! Pode me chamar de Crynvalen ou simplesmente Crym, responsável por um pouco de design e edição de imagens de interface aqui na Kikachan. Entrei recentemente no mundo das VNs, tendo minha influência em jogos famosos, tipo DDLC e Higurashi, sou uma grande fã de RPGs makers também.</p>
     </div>
   </div>
