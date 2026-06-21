@@ -23,15 +23,16 @@ em_andamento:
     lancamento: "A ser anunciado"
     status: "40"
 
-  - nome: Jouka no Monshou - O Emblema da Chama Sagrada
-    link: "https://kikachangames.github.io/jouka/"
-    imagem: "https://kikachangames.github.io/jouka/img/jouka.png"
-    lancamento: "A ser anunciado"
-    status: "100"
-    
+
     
 
 concluidas:
+  - nome: Jouka no Monshou - O Emblema da Chama Sagrada
+    link: "https://kikachangames.github.io/jouka/"
+    imagem: "https://kikachangames.github.io/jouka/img/jouka.png"
+    lancamento: "21/06/2026"
+    status: "100% traduzido"
+
   - nome: Koropokkur Apaixonada
     link: "https://kikachangames.github.io/koropokkur/"
     imagem: "https://kikachangames.github.io/koropokkur/img/covert1.png"
