@@ -17,16 +17,15 @@ em_andamento:
     lancamento: "A ser anunciado"
     status: "81.45"
 
+    
+
+concluidas:
   - nome: AIR (Steam)
     link: "https://kikachangames.github.io/air-steam/"
     imagem: "https://github.com/user-attachments/assets/f5aa8e5c-7f16-45db-b9f3-a6b57585c9a8"
     lancamento: "23/07/2026"
     status: "100"
 
-
-    
-
-concluidas:
   - nome: Jouka no Monshou - O Emblema da Chama Sagrada
     link: "https://kikachangames.github.io/jouka/"
     imagem: "https://kikachangames.github.io/jouka/img/jouka.png"
