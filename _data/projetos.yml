@@ -1,4 +1,10 @@
 em_andamento:
+- nome: Caleidoscópio da prisão fantasma
+    link: "https://kikachangames.github.io/caleidoscopio/"
+    imagem: "https://kikachangames.github.io/caleidoscopio/imgagens/cale00.png"
+    lancamento: "A ser anunciado"
+    status: "20"
+    
   - nome: 101 Formas de Suicídio
     link: "https://kikachangames.github.io/j101/"
     imagem: "https://kikachangames.github.io/j101/img/capa.png"
