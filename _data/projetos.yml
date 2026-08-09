@@ -1,4 +1,11 @@
 em_andamento:
+
+  - nome: Corpse Party: Book of Shadows
+    link: "https://kikachangames.github.io/book-of-shadows/"
+    imagem: "https://kikachangames.github.io/book-of-shadows/img/bos.png"
+    lancamento: "A ser anunciado"
+    status: "20"
+    
   - nome: Caleidoscópio da prisão fantasma
     link: "https://kikachangames.github.io/caleidoscopio/"
     imagem: "https://kikachangames.github.io/caleidoscopio/imagens/cale00.png"
