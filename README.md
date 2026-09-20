@@ -178,6 +178,16 @@ nav a:hover {
     </div>
   </div>
 
+
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/user-attachments/assets/291e60a7-1afd-424f-b5e6-1efa53e15564" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
+    <div style="max-width: 700px;">
+      <h3>Darksoner</h3>
+      <p><b>Revisão e quality check</b></p>
+      <p>"Sou formado em Língua Portuguesa (apesar de não atuar na área docente por razões da vida). Faço tradução hobby e gosto muito de jogar joguinhos retrô. Reviso e traduzo do inglês, e peno para o japonês. Aficionado pela franquia "Kill the Past", Ace Attorney e Charles Bukowski. "Conheço as tuas obras, porque não és frio nem quente. Prouvera que fosses frio ou quente. Assim, porque és morno e nem quente nem frio, estou prestes a te vomitar da minha boca." Apocalipse 3:15–16</p>
+    </div>
+  </div>
+
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://kikachangames.github.io/projetos/img/ashuramage.png" style="width: 180px; height: 180px; object-fit: cover; border-radius: 10px;">
     <div style="max-width: 700px;">
