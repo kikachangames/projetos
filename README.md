@@ -184,7 +184,7 @@ nav a:hover {
     <div style="max-width: 700px;">
       <h3>Darksoner</h3>
       <p><b>Revisão e quality check</b></p>
-      <p>Sou formado em Língua Portuguesa (apesar de não atuar na área docente por razões da vida). Faço tradução hobby e gosto muito de jogar joguinhos retrô.<br/>Reviso e traduzo do inglês, e peno para o japonês.<br/>Aficionado pela franquia "Kill the Past", Ace Attorney e Charles Bukowski.<br/>"Conheço as tuas obras, porque não és frio nem quente. Prouvera que fosses frio ou quente. Assim, porque és morno e nem quente nem frio, estou prestes a te vomitar da minha boca." Apocalipse 3:15–16</p>
+      <p>Sou formado em Língua Portuguesa (apesar de não atuar na área docente por razões da vida). Faço tradução por hobby e gosto muito de jogar joguinhos retrô.<br/>Reviso e traduzo do inglês, e peno para o japonês.<br/>Aficionado pela franquia "Kill the Past", Ace Attorney e Charles Bukowski.<br/>"Conheço as tuas obras, porque não és frio nem quente. Prouvera que fosses frio ou quente. Assim, porque és morno e nem quente nem frio, estou prestes a te vomitar da minha boca." Apocalipse 3:15–16</p>
     </div>
   </div>
 
