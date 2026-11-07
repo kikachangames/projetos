@@ -11,25 +11,25 @@ em_andamento:
     lancamento: "A ser anunciado"
     status: "25"
     
-  - nome: Caleidoscópio da Prisão Fantasma
+  - nome: "Caleidoscópio da Prisão Fantasma"
     link: "https://kikachangames.github.io/caleidoscopio/"
     imagem: "https://kikachangames.github.io/caleidoscopio/imagens/cale00.png"
     lancamento: "A ser anunciado"
-    status: "40"
+    status: "45"
     
-  - nome: 101 Formas de Suicídio
+  - nome: "101 Formas de Suicídio"
     link: "https://kikachangames.github.io/j101/"
     imagem: "https://kikachangames.github.io/j101/img/capa.png"
     lancamento: "A ser anunciado"
     status: "30.06"
 
-  - nome: Bible Black - A Noite de Walpurgis
+  - nome: "Bible Black - A Noite de Walpurgis"
     link: "https://kikachangames.github.io/bible-black"
     imagem: "https://kikachangames.github.io/projetos/img/bb_t.jpg"
     lancamento: "A ser anunciado"
     status: "54.55"
 
-  - nome: MOON.
+  - nome: "MOON."
     link: "https://kikachangames.github.io/moon/"
     imagem: "https://kikachangames.github.io/projetos/cover_moonp.jpg"
     lancamento: "21/11/2026"
